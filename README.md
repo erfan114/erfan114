@@ -5,13 +5,13 @@
 <hr>
 
 ## ❓ About Me
-My name is Erfan and I'm a fullstack developer from Iran/Tehran, I've started coding from 2020 and now I'm happy for what I've done and You can ask me about web design and web development and You know I'm currently trying to find out where do mosquitoes go at day and at the end I'd appreciate if you wanted to talk with me 
+My name is Erfan and I'm a fullstack developer from Iran, I've started writing code from 2020 and now I'm happy for what I've done. I like it when people ask me about web design and web development. I like modern, classic and fluent design principles. At the end I'd appreciate if you wanted to talk with me :).
 
 <hr>
 
 ## 📝 My statistics
 
-I'm don't have too much activity on the Github but You can see what I've done below 
+I'm don't have too much activity on my Github page but You can see what I've done recently 
 
 <div >
     <img src="https://github-readme-stats.vercel.app/api?username=erfan114&show_icons=true&hide_border=true&hide=prs&title_color=00E7CA&icon_color=00E7CA&bg_color=00000000&rank_icon=github&theme=dark" alt="">
