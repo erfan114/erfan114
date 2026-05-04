@@ -1,3 +1,7 @@
+```
+In the name of the Architect who set a spark within the clay and called it mind.
+```
+
 # Hi, I'm Erfan!
 `Professional Frontend Developer | Software Engineer | React Expert`
 
@@ -5,5 +9,9 @@
 
 <hr>
 
-## About me
-My name is Erfan and I'm a fullstack developer from Iran, I've started writing code from 2021 and now I'm happy for what I've done. I like it when people ask me about web design and web development. I like modern, classic and fluent design principles. At the end I'd appreciate if you wanted to talk with me.
+## Know me
+I'm Erfan, a full‑stack developer from Iran. I wrote my first line of code back in 2021, and since then, I've never looked back. Today, I'm genuinely proud of what I've built – and I love nothing more than when someone challenges me to create something awesome.
+
+My design philosophy blends modern, classic, and fluid principles – because great experiences stand the test of time while feeling effortlessly current.
+
+If any of this resonates with you, let's talk. I'd love to hear your ideas.
