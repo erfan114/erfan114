@@ -10,7 +10,7 @@ In the name of the Architect who set a spark within the clay and called it mind.
 <hr>
 
 ## Know me
-I'm Erfan, a full‑stack developer from Iran. I wrote my first line of code back in 2021, and since then, I've never looked back. Today, I'm genuinely proud of what I've built – and I love nothing more than when someone challenges me to create something awesome.
+I'm Erfan, a full‑stack developer from Iran. I wrote my first line of code back in 2021 because I wanted to have a discord bot with a lot of custom abilities for my self. Today, I'm genuinely proud of what I've done – and I love nothing more than when someone challenges me to create something awesome.
 
 My design philosophy blends modern, classic, and fluid principles – because great experiences stand the test of time while feeling effortlessly current.
 
